@@ -246,6 +246,7 @@ h1{
 	margin:0;
 	padding:1.8em 0 0 0;
 	text-indent: -9999px;
+	
 
 /*
 	padding-top: 40px;
@@ -345,6 +346,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 @media(-webkit-min-device-pixel-ratio: 2) {
     h1 {
         background:#fff url(../img/cmmediadev_2x.png) no-repeat center;
+		background-size: 200px auto;
 		margin:0;
 		padding:1.8em 0 0 0;
 		text-indent: -9999px;
