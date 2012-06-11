@@ -341,8 +341,25 @@ only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
   /* Styles */
-}
+h1{	
+	background:#fff url(../img/cmmediadev_2x.png) no-repeat center;
+	margin:0;
+	padding:1.8em 0 0 0;
+	text-indent: -9999px;
 
+/*
+	padding-top: 40px;
+	padding-bottom: 10px;
+*/
+	text-align: center;
+	text-transform: uppercase;
+	}
+}
+@media(-webkit-min-device-pixel-ratio: 2) {
+    h1 {
+        background:#fff url(../img/cmmediadev_2x.png) no-repeat center;
+    }
+}
 
 
 /* ==|== non-semantic helper classes ========================================
