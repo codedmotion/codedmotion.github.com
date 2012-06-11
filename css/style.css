@@ -351,6 +351,10 @@ only screen and (min-device-pixel-ratio: 1.5) {
 		padding:1.8em 0 0 0;
 		text-indent: -9999px;
     }
+#container{
+	background: transparent url(../img/bgSquare_2x.gif) repeat;
+	background-size: 52px auto;
+}
 }
 
 
