@@ -361,7 +361,7 @@ div#main{
 	background-size: 1px auto;
 }
 nav ul{
-	background:transparent url(../img/horz_2x.png) repeat-x bottom;
+	background:#fff url(../img/horz_2x.png) repeat-x bottom;
 	background-size: 1px auto;
 }
 header{
