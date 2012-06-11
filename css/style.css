@@ -355,6 +355,12 @@ only screen and (min-device-pixel-ratio: 1.5) {
 	background: transparent url(../img/bgSquare_2x.gif) repeat;
 	background-size: 52px auto;
 }
+
+div#main{
+	background:transparent url(../img/horz_2x.png) repeat-x top;
+	background-size: 1px auto;
+}
+
 }
 
 
