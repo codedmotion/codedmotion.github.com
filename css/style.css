@@ -362,7 +362,7 @@ div#main, nav ul{
 }
 header{
 	background:#fff url(../img/vert_2x.png) repeat;
-	background-size: 4 auto;
+	background-size: 4px auto;
 
 }
 }
