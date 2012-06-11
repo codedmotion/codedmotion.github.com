@@ -356,11 +356,15 @@ only screen and (min-device-pixel-ratio: 1.5) {
 	background-size: 52px auto;
 }
 
-div#main{
+div#main, nav ul{
 	background:transparent url(../img/horz_2x.png) repeat-x top;
 	background-size: 1px auto;
 }
+header{
+	background:#fff url(../img/vert_2x.png) repeat;
+	background-size: 8px auto;
 
+}
 }
 
 
